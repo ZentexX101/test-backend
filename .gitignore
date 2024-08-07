@@ -41,7 +41,7 @@ ehthumbs.db
 Desktop.ini
 
 # Compiled files
-dist/
+
 build/
 
 # Optional error reporting
